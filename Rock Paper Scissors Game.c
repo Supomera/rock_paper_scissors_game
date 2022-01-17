@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+//Author: Ömer Bera Dinç (github: Supomera)
 void clear(){ /* I explained this function at the bottom of the whole algorithm. */
     while (getchar() != '\n');
 } 
